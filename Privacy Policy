@@ -1,0 +1,71 @@
+
+⸻
+
+📄 Privacy Policy (PureScan AI)
+
+Effective Date: [today’s date]
+Application: PureScan AI
+Developer: Sonia Daneshwar
+
+PureScan AI is committed to protecting your privacy. This policy explains how we collect, use, and safeguard your information.
+
+⸻
+
+Information We Collect
+
+We may collect the following information when you use PureScan AI:
+	•	Account Information
+Email, Sign in with Apple identifier, and optional name
+	•	Scans and Product Data
+Food scanning results and ingredient analysis
+	•	Device Information
+Basic analytics data such as app version, device type, crash logs
+
+We do not collect any biometric data.
+
+⸻
+
+How We Use Your Information
+
+Information is used to provide app features, including:
+	•	Saving your scan history to your account
+	•	Improving allergen detection accuracy
+	•	Supporting cloud syncing and subscriptions
+
+We do not sell your information.
+
+⸻
+
+Data Storage & Security
+
+All user data is stored securely using Supabase, a SOC 2-certified cloud database provider.
+
+We take reasonable measures to protect your data from unauthorized access.
+
+⸻
+
+Account Deletion
+
+You may request full deletion of your account and all stored data directly within the app.
+
+⸻
+
+Third-Party Services
+
+PureScan AI uses the following trusted services:
+	•	Supabase – secure authentication & database
+	•	Apple Sign in – account login
+	•	Apple App Store – subscription management
+
+⸻
+
+Children’s Privacy
+
+PureScan AI is not intended for children under the age of 13.
+
+⸻
+
+Contact
+
+If you have questions about this privacy policy, contact:
+support@purescanai.app
